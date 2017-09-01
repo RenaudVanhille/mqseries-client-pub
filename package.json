@@ -1,0 +1,9 @@
+{
+  "name": "mq_pub",
+  "version": "0.0.0",
+  "engine": {
+    "node": ">=6.0.0"
+  },
+  "main": "./build/Release/mq_pub",
+  "dependencies": {}
+}
